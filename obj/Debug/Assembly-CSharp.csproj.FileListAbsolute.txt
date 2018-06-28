@@ -1,0 +1,58 @@
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Assembly-CSharp.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEditor.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.VR.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Mono.Cecil.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Unity.DataContract.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Unity.CecilTools.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEditor.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.UI.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+M:\My Files\Documents\Space Shooter\Temp\bin\Debug\UnityEngine.VR.xml
+M:\My Files\Documents\Space Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+M:\My Files\Documents\Space Shooter\obj\Debug\Assembly-CSharp.dll
+M:\My Files\Documents\Space Shooter\obj\Debug\Assembly-CSharp.pdb
+M:\My Files\Documents\unity projects\Space Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+M:\My Files\Documents\unity projects\Space Shooter\obj\Debug\Assembly-CSharp.dll
+M:\My Files\Documents\unity projects\Space Shooter\obj\Debug\Assembly-CSharp.pdb
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Assembly-CSharp.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEditor.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.VR.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Mono.Cecil.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Unity.DataContract.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Unity.CecilTools.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEditor.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.UI.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+M:\My Files\Documents\unity projects\Space Shooter\Temp\bin\Debug\UnityEngine.VR.xml
